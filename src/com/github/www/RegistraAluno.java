@@ -3,11 +3,8 @@ package com.github.www;
 public class RegistraAluno {
     /** Captura as Variáveis */
     private String nome;
-
     private int idade;
-
     private String profissao;
-
     private String curso;
 
     /** Getters e Setters */
